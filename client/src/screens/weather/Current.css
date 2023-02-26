@@ -1,0 +1,16 @@
+.current{
+    background-color: #f5f5f5;
+    border: 1px solid #e5e5e5;
+    border-radius: 3px;
+    padding: 10px;
+    margin: 5vh;
+    color: black;
+    width: 60vw;
+}
+.currentBody{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 3vh;
+}
